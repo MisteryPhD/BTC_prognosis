@@ -29,3 +29,16 @@ Analysis implemented in ***"btc_usd_data_mining.m"*** MATLAB script. It works on
 -----
 ![Alt text](presentation/12.png?raw=true "Slide 12")
 -----
+![Alt text](presentation/13.png?raw=true "Slide 13")
+-----
+![Alt text](presentation/14.png?raw=true "Slide 14")
+-----
+![Alt text](presentation/15.png?raw=true "Slide 15")
+-----
+![Alt text](presentation/16.png?raw=true "Slide 16")
+-----
+![Alt text](presentation/17.png?raw=true "Slide 17")
+-----
+![Alt text](presentation/18.png?raw=true "Slide 18")
+-----
+![Alt text](presentation/19.png?raw=true "Slide 19")

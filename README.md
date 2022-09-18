@@ -3,7 +3,7 @@ BTC price prediction made using simpliest possible model
 
 Analysis implemented in ***"btc_usd_data_mining.m"*** MATLAB script. It works on the dataset ***"bitstampUSD.csv"*** (it is attached as split RAR archive here on the same folder "Analysis" - just unRAR it and place near the script file).
 
-![Alt text](0.png?raw=true "Slide 0")
+![Alt text](presentation/0.png?raw=true "Slide 0")
 
 ![Alt text](1.png?raw=true "Slide 1")
 ![Alt text](2.png?raw=true "Slide 2")
